@@ -138,11 +138,11 @@ $(document).ready(function(e){
 					}
 				}
 			},
-			/* credits:{
+			credits:{
 				id:"opt-credits",
 				title: "Credits",
 				callback:function(){
-					$("#credits,#back-credits").fadeIn("slow");*/ 
+					$("#credits,#back-credits").fadeIn("slow");
 				}
 			}
 		}
